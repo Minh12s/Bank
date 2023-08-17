@@ -1,0 +1,8 @@
+D:\visual studio\T2210A\T2210A_Phone\bin\Debug\T2210A_Phone.exe.config
+D:\visual studio\T2210A\T2210A_Phone\bin\Debug\T2210A_Phone.exe
+D:\visual studio\T2210A\T2210A_Phone\bin\Debug\T2210A_Phone.pdb
+D:\visual studio\T2210A\T2210A_Phone\obj\Debug\T2210A_Phone.csproj.AssemblyReference.cache
+D:\visual studio\T2210A\T2210A_Phone\obj\Debug\T2210A_Phone.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\T2210A\T2210A_Phone\obj\Debug\T2210A_Phone.csproj.CoreCompileInputs.cache
+D:\visual studio\T2210A\T2210A_Phone\obj\Debug\T2210A_Phone.exe
+D:\visual studio\T2210A\T2210A_Phone\obj\Debug\T2210A_Phone.pdb

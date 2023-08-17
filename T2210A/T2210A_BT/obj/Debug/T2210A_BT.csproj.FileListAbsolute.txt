@@ -1,0 +1,8 @@
+D:\visual studio\T2210A\T2210A_BT\bin\Debug\T2210A_BT.exe.config
+D:\visual studio\T2210A\T2210A_BT\bin\Debug\T2210A_BT.exe
+D:\visual studio\T2210A\T2210A_BT\bin\Debug\T2210A_BT.pdb
+D:\visual studio\T2210A\T2210A_BT\obj\Debug\T2210A_BT.csproj.AssemblyReference.cache
+D:\visual studio\T2210A\T2210A_BT\obj\Debug\T2210A_BT.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\T2210A\T2210A_BT\obj\Debug\T2210A_BT.csproj.CoreCompileInputs.cache
+D:\visual studio\T2210A\T2210A_BT\obj\Debug\T2210A_BT.exe
+D:\visual studio\T2210A\T2210A_BT\obj\Debug\T2210A_BT.pdb
